@@ -25,3 +25,4 @@ Artificial Intelligence (AI) is revolutionizing various industries, offering inn
 - Implement and experiment with various AI models and algorithms.
 - Apply AI solutions to practical problems.
 - Stay updated with the latest advancements in the AI field.
+- Build project about LLM and CV
